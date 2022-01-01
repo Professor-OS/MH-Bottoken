@@ -1,0 +1,99 @@
+{
+    "name": "𝐌𝐎𝐍𝐄𝐘 𝐇𝐄𝐈𝐒𝐓 𝐁𝐎𝐓 𝐓𝐎𝐊𝐄𝐍 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓",
+    "description": "Spamming PROFESSOR Made By Professor Agora",
+    "logo": "https://te.legra.ph/file/7ca8271d7cd3974ce9539.jpg ",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegrambot",
+        "Agora",
+        "Botspam"
+    ],
+    "repository": "https://github.com/Professor-OS/MH-PROFESSORtoken",
+    "website": "https://t.me/agora_professor",
+    "success_url": "https://t.me/Agoraswamy_Professor",
+    "env": {
+        "API_HASH": {
+            "description": "Write API_HASH from my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Paste API ID from my.telegram.org",
+            "value": ""
+        },
+        "PROFESSOR_TOKEN": {
+            "description": "Use @BotFather. To Get PROFESSOR_TOKEN",
+            "value": ""
+        },
+        "PROFESSOR_TOKEN2": {
+            "description": "Use @Botfather. To Get PROFESSOR_TOKEN.",
+            "value": ""
+
+        },
+        "PROFESSOR_TOKEN3": {
+            "description": "Use @Botfather. To Get PROFESSOR_TOKEN.",
+            "value": ""
+           
+        },
+        "PROFESSOR_TOKEN4": {
+            "description": "Use @Botfather. To Get PROFESSOR_TOKEN.",
+            "value": ""
+            
+        },
+        "PROFESSOR_TOKEN5": {
+            "description": "Use @Botfather. To Get PROFESSOR_TOKEN.",
+            "value": ""
+           
+        },
+        "PROFESSOR_TOKEN6": {
+            "description": "Use @Botfather. To Get PROFESSOR_TOKEN.",
+            "value": ""
+            
+        },
+        "PROFESSOR_TOKEN7": {
+            "description": "Use @Botfather. To Get PROFESSOR_TOKEN",
+            "value": ""
+            
+        },
+        "PROFESSOR_TOKEN8": {
+            "description": "Use @Botfather. To Get PROFESSOR_TOKEN.",
+            "value": ""
+            
+        },
+        "PROFESSOR_TOKEN9": {
+            "description": "Use @Botfather. To Get PROFESSOR_TOKEN.",
+            "value": ""
+            
+        },
+        "PROFESSOR_TOKEN10": {
+            "description": "Use @Botfather. To Get PROFESSOR_TOKEN.",
+            "value": ""
+            
+        },
+        "SUDO_USERS": {
+            "description": "OWNER_ID",
+            "value": "5080735305 5080735305"
+            
+        },
+        "YOUR_NAME": {
+            "description": "NAME",
+            "value": "PROFESSOR AGORA"
+            
+        },
+        "HEROKU_API_KEY": {
+            "description": "Your Heroku api key to update your BOT",
+            "value": ""
+            
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Your app name to Update your BOT",
+            "value": ""
+            
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
