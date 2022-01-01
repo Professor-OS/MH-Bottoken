@@ -7,7 +7,7 @@
 ## [𝗠𝗢𝗡𝗘𝗬 𝗛𝗘𝗜𝗦𝗧 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠](t.me/Agoraswamy_Professor)
 
 <p align="center">
-  <img src="https://telegra.ph/file/ce8b8e62cd807f75a1653.jpg">
+  <img src="https://te.legra.ph/file/7ca8271d7cd3974ce9539.jpg">
 </p>
 
 
