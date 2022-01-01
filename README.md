@@ -14,7 +14,7 @@
 
 # 🚀 DEPLOY TO HEROKU💰
 
-Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/MH-Bottoken)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/MH-Bottoken)
 
 # 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝗠𝗛 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗕𝗢𝗧
 
