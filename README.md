@@ -1,10 +1,10 @@
-# 𝙈𝙃-𝙎𝙋𝘼𝙈-𝘽𝙊𝙏
+# 𝘼𝙂𝙊𝙍𝘼 𝙍𝙊𝘽𝙊 𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍𝙎
 
 #### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 𝟭𝟬 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
 ### SUDO HANDLER 
-### * plugins like (*ping), 
-### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝗠𝗢𝗡𝗘𝗬 𝗛𝗘𝗜𝗦𝗧 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗦𝗣𝗔𝗠](t.me/Agoraswamy_Professor)
+### / plugins like (/ping), 
+### aa (/bigspam) , (/raid) ,(/replyraid) and more
+## [𝘼𝙂𝙊𝙍𝘼 𝙍𝙊𝘽𝙊 𝙂𝘼𝙉𝙂𝙎𝙏𝙀𝙍𝙎](t.me/Agoraswamy_Professor)
 
 <p align="center">
   <img src="https://te.legra.ph/file/7ca8271d7cd3974ce9539.jpg">
@@ -12,13 +12,13 @@
 
 
 
-# 🚀 DEPLOY TO HEROKU💰
+# 🚀 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨💰
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Professor-OS/MH-Bottoken)
 
-# 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝗠𝗛 𝗕𝗢𝗧 𝗧𝗢𝗞𝗘𝗡 𝗕𝗢𝗧
+# 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗢𝗙 𝗔𝗚𝗢𝗥𝗔 𝗥𝗢𝗕𝗢 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥𝗦
 
-   - 𝙳𝙴𝙿𝙻𝙾𝚈 𝚄𝙿𝚃𝙾 𝟭𝟶 𝙱𝙾𝚃𝚂 𝙰𝚃 𝙰 𝚂𝙰𝙼𝙴 𝚃𝙸𝙼𝙴
+   - 𝙳𝙴𝙿𝙻𝙾𝚈 𝚄𝙿𝚃𝙾 𝟷𝟶 𝙱𝙾𝚃𝚂 𝙰𝚃 𝙰 𝚂𝙰𝙼𝙴 𝚃𝙸𝙼𝙴
 
    - 𝙼𝙾𝙽𝙴𝚈 𝙷𝙴𝙸𝚂𝚃 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃 𝙵𝙰𝚂𝚃 𝙰𝙽𝙳 𝚂𝚃𝚁𝙾𝙽𝙶
 
@@ -29,7 +29,7 @@
 
 
 ## SUPPORT GROUP
-   - 𝗝𝗢𝗜𝗡 [𝗠𝗛𝗨𝗕 𝗦𝗨𝗣𝗣𝗢𝗥𝗧](https://t.me/MH_USERBOT) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
+   - 𝗝𝗢𝗜𝗡 [𝗔𝗚𝗢𝗥𝗔 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥𝗦](https://t.me/AGORA_SPAM_OFFICIAL) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
 ## Credits
    - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝗦𝗨𝗝𝗔𝗟](https://t.me/toxic_than_toxiest)
