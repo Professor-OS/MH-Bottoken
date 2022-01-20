@@ -20,7 +20,7 @@ for x in SUDO_USERS:
 @bot10.on(events.NewMessage(pattern="/restart"))
 async def restart(e):
     if e.sender_id in SMEX_USERS:
-        text = " 🤖𝐑𝐄𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖\n😎𝐒𝐀𝐘 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑...."
+        text = " 🤖𝐑𝐄𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖\n😎𝐒𝐀𝐘 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎 𝐀𝐆𝐎𝐑𝐀...."
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await bot.disconnect()
