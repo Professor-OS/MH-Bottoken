@@ -15,7 +15,7 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("Sir Deployed Ho Gya")
+print("Ab ki baar AGORA Sir k sarkar")
 print("Congratulations")
 
 if __name__ == "__main__":
