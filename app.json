@@ -1,7 +1,7 @@
 {
-    "name": "𝐌𝐎𝐍𝐄𝐘 𝐇𝐄𝐈𝐒𝐓 𝐁𝐎𝐓 𝐓𝐎𝐊𝐄𝐍 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓",
-    "description": "Spamming PROFESSOR Made By Professor Agora",
-    "logo": "https://te.legra.ph/file/7ca8271d7cd3974ce9539.jpg ",
+    "name": "𝗔𝗚𝗢𝗥𝗔 𝗥𝗢𝗕𝗢 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥𝗦",
+    "description": "Spamming Robo Gangsters Made By Professor Agora",
+    "logo": "https://te.legra.ph/file/792fa83b58082149766a9.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -72,7 +72,7 @@
         },
         "SUDO_USERS": {
             "description": "OWNER_ID",
-            "value": "5080735305 5080735305"
+            "value": "5090542427"
             
         },
         "YOUR_NAME": {
