@@ -17,13 +17,13 @@ IS_SELECTED_DIFFERENT_BRANCH = (
     "please check out to an official branch, and re-start the updater."
 )
 OFFICIAL_UPSTREAM_REPO = "https://github.com/dangerousjatt/SpamBot-2.0"
-BOT_IS_UP_TO_DATE = "**The 𝗠𝗛 𝗕𝗢𝗧𝗧𝗢𝗞𝗘𝗡** is up-to-date sur."
+BOT_IS_UP_TO_DATE = "**𝐀𝐆𝐎𝐑𝐀 𝐑𝐎𝐁𝐎 𝐆𝐀𝐍𝐆𝐒𝐓𝐄𝐑𝐒** is up-to-date sur."
 NEW_BOT_UP_DATE_FOUND = (
     "new update found for {branch_name}\n"
     "changelog: \n\n{changelog}\n"
-    "updating your 𝗠𝗛 𝗕𝗢𝗧𝗧𝗢𝗞𝗘𝗡 ..."
+    "updating your 𝐀𝐆𝐎𝐑𝐀 𝐑𝐎𝐁𝐎 𝐆𝐀𝐍𝐆𝐒𝐓𝐄𝐑𝐒..."
 )
-NEW_UP_DATE_FOUND = "New update found for {branch_name}\n" "`updating your 𝗠𝗛 𝗕𝗢𝗧𝗧𝗢𝗞𝗘𝗡...`"
+NEW_UP_DATE_FOUND = "New update found for {branch_name}\n" "`updating your 𝐀𝐆𝐎𝐑𝐀 𝐑𝐎𝐁𝐎 𝐆𝐀𝐍𝐆𝐒𝐓𝐄𝐑𝐒...`"
 REPO_REMOTE_NAME = "temponame"
 IFFUCI_ACTIVE_BRANCH_NAME = "master"
 DIFF_MARKER = "HEAD..{remote_name}/{branch_name}"
@@ -44,7 +44,7 @@ RESTARTING_APP = "re-starting heroku application"
 @bot10.on(events.NewMessage(pattern="/update"))
 async def restart(e):
     if e.sender_id in SMEX_USERS:
-        text = " 🔰𝐔𝐏𝐃𝐀𝐓𝐈𝐍𝐆 𝐘𝐎𝐔𝐑 𝗠𝗛 𝗕𝗢𝗧🔰....\n𝐓𝐘𝐏𝐄 /𝐩𝐢𝐧𝐠 𝐀𝐅𝐓𝐄𝐑 𝟓 𝐌𝐈𝐍𝐒 𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐈𝐅 𝐈'𝐌 𝐎𝐍"
+        text = " 🔰𝐔𝐏𝐃𝐀𝐓𝐈𝐍𝐆 𝐀𝐆𝐎𝐑𝐀 𝐑𝐎𝐁𝐎 𝐆𝐀𝐍𝐆𝐒𝐓𝐄𝐑𝐒🔰....\n𝐓𝐘𝐏𝐄 /𝐩𝐢𝐧𝐠 𝐀𝐅𝐓𝐄𝐑 𝟓 𝐌𝐈𝐍𝐒 𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐈𝐅 𝐈'𝐌 𝐎𝐍"
         await e.reply(text, parse_mode=None, link_preview=None)
 
 
